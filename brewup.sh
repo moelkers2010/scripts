@@ -3,7 +3,7 @@ echo "------------------------------------------------"-
 date 
 echo""
 echo""
-brew update >> ~/Desktop/brewlog.txt
-brew upgrade --all >> ~/Desktop/brewlog.txt
+brew update
+brew upgrade --all
 echo""
 echo "------------------------------------------------"
