@@ -1,5 +1,5 @@
 #!/bin/zsh
-echo "------------------------------------------------"
+echo "------------------------------------------------" >> ~/Desktop/brewlog.txt
 date >> ~/Desktop/brewlog.txt 
 echo"" >> ~/Desktop/brewlog.txt
 echo"" >> ~/Desktop/brewlog.txt
